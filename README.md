@@ -1,7 +1,9 @@
-Kamil Szewczyk
+Kamil Piotr Szewczyk
 --------------
+Software Developer
 
-**Adres e-mail:** kamil@szewczyk.info.pl  
-**Numer telefonu:** +48 579 544 544  
+**E-mail address:** kamil@szewczyk.dev  
+**Phone number:** +48 579 544 544  
+**Web:** [szewczyk.dev](https://szewczyk.dev)
   
-**Profil zawodowy:** [LinkedIn](https://www.linkedin.com/in/kamil-szewczyk-b534a2221/)
+**Profile:** [LinkedIn](https://www.linkedin.com/in/kamil-szewczyk-b534a2221/)
