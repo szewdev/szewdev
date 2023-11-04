@@ -1,9 +1,11 @@
-Kamil Piotr Szewczyk
+**Kamil Piotr Szewczyk**
 --------------
-Software Developer
+_Software Developer_
 
-**E-mail address:** kamil@szewczyk.dev  
-**Phone number:** +48 579 544 544  
-**Web:** [szewczyk.dev](https://szewczyk.dev)
-  
-**Profile:** [LinkedIn](https://www.linkedin.com/in/kamil-szewczyk-b534a2221/)
+**Phone number:** +48 579 544 544
+
+**E-mail address:** [kamil@szewczyk.dev](mailto:kamil@szewczyk.dev) | [kamil@szewczyk.info.pl](mailto:kamil@szewczyk.info.pl)
+
+**Web:** [szewczyk.dev](https://szewczyk.dev) | [kamil.szewczyk.info.pl](https://kamil.szewczyk.info.pl)
+
+**Profile:** [LinkedIn](https://www.linkedin.com/in/kamilszewczyk/)
