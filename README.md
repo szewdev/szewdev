@@ -1,4 +1,4 @@
-**Kamil Piotr Szewczyk**
+mgr inż. **Kamil Piotr Szewczyk**
 --------------
 _Software Developer_
 
